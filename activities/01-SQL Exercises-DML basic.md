@@ -4,7 +4,7 @@
 > Blog: dev.to/alexcalaca
 
 ---
-
+teste
 
 For the following exercises, create a table named `Customers`
    ```
